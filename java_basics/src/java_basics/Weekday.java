@@ -16,8 +16,10 @@ public class Weekday{
 		for (WeekdayCount day : WeekdayCount.values())
 		{
 			System.out.println(i++ + ". day: " + day);
-		}
-	
+		}	
 }
 }
+
+
+
 
